@@ -1,0 +1,19 @@
+agent,attribute,specialty,type,rarity,hp,def,atk,crit_rate,crit_dmg,pen_ratio,impact,atr_mastery,energy
+Anby,Electric,Stun,Slash,A Rank,7501,613,659,5.00%,50.00%,0%,136,93,1.2
+Anton,Electric,Attack,Pierce,A Rank,7219,623,792,19.40%,50.00%,0%,95,90,1.2
+Ben,Fire,Defense,Strike,A Rank,8578,724,653,5.00%,50.00%,0%,95,90,1.56
+Billy,Physical,Attack,Pierce,A Rank,6907,607,787,19.40%,50.00%,0%,91,91,1.2
+Corin,Physical,Attack,Slash,A Rank,6977,605,807,5.00%,78.80%,0%,93,96,1.2
+Ellen,Ice,Attack,Slash,S Rank,7674,607,938,19.40%,50.00%,0%,93,93,1.2
+Grace,Electric,Anomaly,Pierce,S Rank,7483,601,826,5.00%,50.00%,0%,83,152,1.2
+Koleda,Fire,Stun,Strike,S Rank,8127,595,736,5.00%,50.00%,0%,134,96,1.2
+Lucy,Fire,Support,Strike,A Rank,8026,613,659,5.00%,50.00%,0%,86,93,1.56
+Lycaon,Ice,Stun,Strike,S Rank,8416,607,729,5.00%,50.00%,0%,137,90,1.2
+Nekomata,Physical,Attack,Slash,S Rank,7560,588,911,19.40%,50.00%,0%,92,96,1.2
+Nicole,Ether,Support,Strike,A Rank,8146,623,649,5.00%,50.00%,0%,88,93,1.56
+Piper,Physical,Anomaly,Slash,A Rank,6977,613,758,5.00%,50.00%,0%,86,118,1.56
+Qingyi,Electric,Stun,Strike,S Rank,8251,613,758,5.00%,50.00%,0%,136,94,1.2
+Rina,Electric,Support,Strike,S Rank,8609,601,717,5.00%,50.00%,14%,83,92,1.2
+Soldier 11,Fire,Attack,Slash,S Rank,7674,613,889,19.40%,50.00%,0%,93,93,1.2
+Soukaku,Ice,Support,Slash,A Rank,8026,598,666,5.00%,50.00%,0%,86,96,1.56
+Zhu Yuan,Ether,Attack,Pierce,S Rank,7483,601,919,5.00%,78.80%,0%,90,92,1.2
